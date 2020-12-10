@@ -1,0 +1,8 @@
+For Admin Panel
+Open Your browser put inside browser “http://localhost/BDA/admin”
+
+USERNAME : admin
+
+PASSWORD : Test@12345
+ 
+
